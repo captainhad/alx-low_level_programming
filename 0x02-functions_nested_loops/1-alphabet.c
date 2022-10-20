@@ -3,11 +3,13 @@
 /**
  * main -Entry point
  *
- * Return: Always 0 (success)
+ * Description: printing alphabet in lowercase
+ *
+ * Return: nothing
  *
  */
 
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char i;
 

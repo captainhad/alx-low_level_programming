@@ -11,10 +11,11 @@
 
 void _putchar(void)
 {
-	char b, ret;
+	char b; 
+	char ret;	     
 
 	b = "_putchar\n";
-	ret = _putchar(b);
+	ret = _putchar();
 
 	return (0);
 }

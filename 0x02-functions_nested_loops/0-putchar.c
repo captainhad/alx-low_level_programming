@@ -5,19 +5,20 @@
  *
  * Return: Always 0 (success)
  *
- * description:print the _putchar
+ * Description: print the _putchar
  *
  */
 
-void _putchar(void)
+int main(void)
 {
-	char b; 
-	char ret;	     
-
-	b = "_putchar\n";
-	ret = _putchar();
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 
 	return (0);
 }
-
-_putchar(ret);

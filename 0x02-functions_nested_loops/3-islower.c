@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- *
- * main - Entry point 
+ * _islower - Check description 
  *
  * Description: islower
  *

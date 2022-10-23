@@ -2,10 +2,10 @@
 
 /**
  * _isalpha - Check description
- *
- * Description: Is alpha
- *
- * Return: Something
+ * @c: An input character
+ * Description: function returns 1 if the character is 
+ * a letter, lowercase or uppercase
+ * Return: 1 or 0 in otherwise
  */
 
 int _isalpha(int c)

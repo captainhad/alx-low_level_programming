@@ -3,6 +3,8 @@
 /**
  * _islower - Check description
  *
+ * @c: An input character
+ *
  * Description: islower
  *
  * Return: somthing

@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * Description: printing alphabet in lowercase
+ * Description: Printing alphabet in lowercase
  *
  * Return: nothing
  *

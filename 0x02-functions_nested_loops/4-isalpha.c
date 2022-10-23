@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main: Entry point
+ * _isalpha - Check description
  *
- * Description: is alpha
+ * Description: Is alpha
  *
- * Return: nothing
+ * Return: Something
  */
 
 int _isalpha(int c)

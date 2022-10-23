@@ -19,5 +19,5 @@ int _islower(int c)
 		lower = 1;
 	}
 
-	return (lower);	
+	return (lower);
 }

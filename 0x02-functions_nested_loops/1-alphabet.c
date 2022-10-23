@@ -1,9 +1,10 @@
 #include "main.h"
 
+
 /**
- * main - Entry point
+ * print_alphabet - Check description
  * Description: It Prints alphabet in lowercase followed by a new line
- * Return: Nothing
+ * Return: Nothing.
  */
 
 void print_alphabet(void)

@@ -4,7 +4,7 @@
  * print_sign - Check description
  * @n: An input number
  * Description: function prints the sign of the number
- * Return: 1 if the number is positive, o if number is 0, or -1 if number 
+ * Return: 1 if the number is positive, o if number is 0, or -1 if number
  * is negative
  */
 

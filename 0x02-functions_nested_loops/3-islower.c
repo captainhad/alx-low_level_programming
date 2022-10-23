@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - Check description 
+ * _islower - Check description
  *
  * Description: islower
  *

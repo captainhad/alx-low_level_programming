@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_string - A function that revserse a string, 
+ * rev_string - A function that revserse a string,
  * followed by a new line.
  * @s: An input string
  * Return: Nothing

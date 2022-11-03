@@ -3,6 +3,7 @@
 
 /**
  * is_prime_number - A function that checks if a number is prime
+ * is_divisible -A function that checks if n returns 1 if % 2.
  * @n: An integer input
  * Return: 1 if n is a prime number or 0 otherwise
  */

@@ -2,7 +2,7 @@
 
 
 /**
- * is_prime_number - A function that checks if a number is a prime
+ * is_prime_number - A function that checks if a number is prime
  * @n: An integer input
  * Return: 1 if n is a prime number or 0 otherwise
  */

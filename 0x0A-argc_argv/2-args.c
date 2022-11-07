@@ -9,8 +9,10 @@
 
 int main(int argc, char *argv[])
 {
-	for (; argc >= 0; argc++)
-		_putchar(argv[argc]);
+	while ( argc--)
+	{
+		_putchar(argv++);
 	_putchar('\n');
+	}
 	return (0);
 }

@@ -23,11 +23,11 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 		s2 = "";
 	while (s2[lense2])
 		lense2++;
-	
+
 	if (n >= lense2)
 		n = lense2;
 
-	new_str = malloc(lens1 + n + 1);
+	new_str = malloc(lense1 + n + 1);
 	if (new_str == NULL)
 		return (NULL);
 

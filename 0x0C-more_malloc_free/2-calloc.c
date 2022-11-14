@@ -8,7 +8,6 @@
  * Return: A pointer to the allocated spaces or NULL on failure
  */
 
-v
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i = 0;

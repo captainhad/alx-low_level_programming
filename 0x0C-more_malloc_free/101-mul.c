@@ -14,7 +14,7 @@ int main(int argc, char **argv)
 
 	if (argc != 3)
 	{
-		print("error\n");
+		_putchar("error\n");
 		exit(98);
 	}
 	else

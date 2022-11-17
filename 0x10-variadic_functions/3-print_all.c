@@ -40,7 +40,7 @@ void print_all(const char * const format, ...)
 				printf("%f", (float) va_arg(ap, double));
 				break;
 			case 's':
-				temp = va_arg(ap, int);
+				temp = va_arg(ap, char*);
 				if (temp != NULL)
 				{
 					printf("%s", temp);

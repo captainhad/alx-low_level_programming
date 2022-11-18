@@ -11,9 +11,6 @@
  * Return: nothing
  */
 
-
-
-
 void print_all(const char * const format, ...)
 {
 	va_list ap;
@@ -46,8 +43,8 @@ void print_all(const char * const format, ...)
 					printf("%s", temp);
 					break;
 				}
-				printf("(nil)");
-				break;
+			printf("(nil)");
+			break;
 		}
 		if ((format[i] == 'c' || format[i] == 'i' ||
 				       	format[i] == 'f' || format[i] == 's')

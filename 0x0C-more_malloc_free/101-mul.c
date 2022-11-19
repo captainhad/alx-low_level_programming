@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
@@ -14,7 +15,7 @@ int main(int argc, char **argv)
 
 	if (argc != 3)
 	{
-		_putchar("error\n");
+		printf("error\n");
 		exit(98);
 	}
 	else

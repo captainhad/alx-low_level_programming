@@ -6,7 +6,8 @@
  * for an array using malloc function
  * @nmemb: number of memory spaces
  * @size: size of nmemb
- * Return: A pointer to the allocated spaces or NULL on failure
+ * Return: A pointer to the allocated spaces or NULL
+ * on failure
  */
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
